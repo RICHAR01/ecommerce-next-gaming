@@ -1,4 +1,4 @@
-import Link from "next/Link";
+import Link from "next/link";
 import { useAuth } from "@/hooks";
 import { useRouter } from "next/router";
 import { Icon, Image } from "semantic-ui-react";
