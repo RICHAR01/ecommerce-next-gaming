@@ -1,6 +1,6 @@
 export const ENV = {
-  SERVERHOST: "http://localhost:1337",
-  API_URL: "http://localhost:1337/api",
+  SERVERHOST: "https://ecommerce-strapi-production.up.railway.app",
+  API_URL: "https://ecommerce-strapi-production.up.railway.app/api",
   ENDPOINTS: {
     AUTH: {
       REGISTER: "auth/local/register",
