@@ -55,7 +55,7 @@ export function Footer() {
         </div>
         <div className={styles.copyright}>
           <span>Copyright © 2023 Gaming - All rights reserved</span>
-          <span>Ricardo Rocha Q</span>
+          <span>Ricardo Rocha</span>
         </div>
       </Container>
     </div>
